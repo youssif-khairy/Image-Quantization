@@ -1,0 +1,9 @@
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.exe
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.pdb
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Image_Quantize.resources
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.exe
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.pdb
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csprojResolveAssemblyReference.cache
